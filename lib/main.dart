@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text('main'),
+          child: Text('Progrmador 1'),
         ),
       ),
     );
